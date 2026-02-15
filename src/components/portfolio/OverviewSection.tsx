@@ -115,7 +115,7 @@ export default function OverviewSection() {
                       A Senior <span className="font-bold text-blue-600 dark:text-blue-400">Full Stack Developer</span> and
                       <span className="font-bold text-purple-600 dark:text-purple-400">
                         &nbsp; Mobile developer</span> with
-                      <span className="font-bold text-green-600 dark:text-green-400"> 7+ years</span> of experience 
+                      <span className="font-bold text-green-600 dark:text-green-400"> 5+ years</span> of experience 
                       specializing in AI-powered applications, machine learning integrations, and scalable product development.
                     </p>
                   </div>
@@ -253,7 +253,7 @@ export default function OverviewSection() {
                     <Icon icon="solar:map-point-bold" className="text-white w-4 h-4" width={16} height={16} />
                   </div>
                   <div>
-                    <div className="text-sm font-bold text-gray-900 dark:text-white">Alabama, USA</div>
+                    <div className="text-sm font-bold text-gray-900 dark:text-white">Toronto, Canada</div>
                   </div>
                 </motion.div>
               </div>
