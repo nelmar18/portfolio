@@ -6,36 +6,36 @@ import SectionHeader from "./SectionHeader";
 
 const experience = [
   {
-    role: "Senior Full Stack Developer",
-    company: "Hinge Health",
-    period: "May 2022 — Mar 2025",
+    role: "Generative AI Engineer",
+    company: "Pixite Inc",
+    period: "Aug 2024 — Nov 2025",
     type: "Full Time",
     // companyIcon: "fa6-brands:square-upwork",
     companyColor: "from-green-500 to-green-600",
-    description: "Built a centralized React and Node.js web portal that unified disparate network data and delivered a fully automated end-to-end network device upgrade system, from execution and data processing to real-time access through a performant dashboard and management interface.",
+    description: "Provided technical leadership for Copilot development in a visual programming environment, fine-tuned and deployed Stable Diffusion and Chat-Bison models to Vertex AI endpoints for a beauty retail PoC, architected scalable and cost-efficient AWS cloud solutions for medical AI, LLM-based injury claims, and compliance workflows, and delivered production-ready AI systems including a vector and graph-powered retail shopping assistant and an automated Confluence tutorial generation platform.",
     achievements: [
-      "Achieved Top-Rated status with a 91% job success score",
-      "Completed 10+ projects focusing on scalable solutions",
-      "Consistently praised for skillfulness, quick learning, and strong communication",
-      "Earned repeated engagements through reliability and expertise"
+      "Led Copilot development and deployed fine tuned Stable Diffusion and Chat Bison models to Vertex AI.",
+      "Designed scalable AWS architectures for medical AI, LLM claims processing, and compliance automation.",
+      "Built a shopping assistant using graph and vector databases to improve search relevance.",
+      "Created a Generative AI system to automate tutorial review and generation in Confluence."
     ],
     technologies: ["JavaScript", "Python", "Node.js", "AWS", "GCP", "OpenAI API", "LangChain"]
   },
   {
-    role: "Senior Software Developer",
-    company: "SLB",
-    period: "Sep 2018 — Nov 2021",
+    role: "Full Stack Engineer",
+    company: "SolarWinds",
+    period: "Apr 2023 — Jun 2024",
     type: "Full-time",
     companyColor: "from-blue-500 to-blue-600",
     companyIcon: "",
-    description: "Worked as a full-stack developer building REST APIs in Java and Node.js to support real-time monitoring and alerting, delivering a unified service that provides clear visibility into the health of applications running in both cloud and desktop environments.",
+    description: "Served as Lead Full Stack Developer and later Team Lead, architecting scalable web and mobile applications with React, React Native, and Flutter, building and optimizing Node.js REST APIs, managing and mentoring a 10 person team, leading onboarding and technical training, and enforcing code quality, architectural consistency, security, and performance across the entire product lifecycle.",
     achievements: [
-      "Led integration of 45+ radiology machines (CT, MRI, X-Ray, Ultrasound)",
-      "Ensured active monitoring for integration issues",
-      "Acted as master trainer and led support team",
-      "Communicated issues and requirements to backend teams"
+      "Architected and delivered scalable web and mobile applications using React, React Native, Flutter, and modern UI frameworks.",
+      "Designed and optimized Node.js REST APIs with secure authentication, validation, and performance tuning.",
+      "Led and mentored a 10 developer team, managing sprint planning, delivery timelines, and engineering standards.",
+      "Enforced architectural consistency and code quality by reviewing all Git submissions and reducing technical debt."
     ],
-    technologies: ["Node.js", "Java", "REST API", "Healthcare IT"]
+    technologies: ["React", "React Native", "Flutter", "Node.js", "Modern UI Framework"]
   }
 ];
 
