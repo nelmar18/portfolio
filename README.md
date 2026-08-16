@@ -256,7 +256,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 - Portfolio: [https://nelmar-portfolio.vercel.app](https://nelmar-portfolio.vercel.app)
 - GitHub: [@lightify97](https://github.com/nelmar18)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/nelmar-camisora-7299b830a)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nelmar-camisora)
 - Email: camisoranelmar18@gmail.com
 
 ## 🙏 Acknowledgments
