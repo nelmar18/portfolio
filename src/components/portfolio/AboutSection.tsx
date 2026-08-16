@@ -19,7 +19,7 @@ export default function AboutSection() {
           dedicated to creating high-performance, user-centric software solutions with intuitive and engaging designs.
         </p>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-          With 5+ years of experience, I specialize in building scalable web and mobile applications using
+          With 7+ years of experience, I specialize in building scalable web and mobile applications using
           React, Next.js, TypeScript, and modern development technologies. I thrive on turning complex problems
           into elegant solutions that users love.
         </p>

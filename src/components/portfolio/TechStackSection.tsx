@@ -22,7 +22,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Backend",
       description: "JavaScript runtime for server-side applications",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "Python",
@@ -30,7 +30,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Backend",
       description: "Versatile language for backend and data science",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "Express",
@@ -38,7 +38,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Backend",
       description: "Fast, minimalist web framework for Node.js",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "Django",
@@ -54,7 +54,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Backend",
       description: "Query language for APIs",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "Socket.io",
@@ -62,7 +62,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Backend",
       description: "Real-time bidirectional event-based communication",
-      yearsUsed: 5
+      yearsUsed: 7
     },
   ],
   "Frontend": [
@@ -72,7 +72,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Frontend",
       description: "Building modern, interactive user interfaces",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "React Native",
@@ -80,7 +80,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Frontend",
       description: "Cross-platform mobile app development",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "Flutter",
@@ -88,7 +88,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Frontend",
       description: "Cross-platform mobile app development",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "Next.js",
@@ -96,7 +96,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Frontend",
       description: "Full-stack React framework for production apps",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "TypeScript",
@@ -104,7 +104,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Frontend",
       description: "Type-safe JavaScript for scalable applications",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "JavaScript",
@@ -112,7 +112,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Frontend",
       description: "Core language for web development",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "Tailwind CSS",
@@ -130,7 +130,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Database",
       description: "Advanced open-source relational database",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "MongoDB",
@@ -138,7 +138,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Database",
       description: "NoSQL document database",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "MySQL",
@@ -146,7 +146,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Database",
       description: "Popular open-source relational database",
-      yearsUsed: 6
+      yearsUsed: 7
     },
     {
       name: "Redis",
@@ -172,7 +172,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Cloud & DevOps",
       description: "Amazon Web Services cloud platform",
-      yearsUsed: 4
+      yearsUsed: 5
     },
     {
       name: "GCP",
@@ -180,7 +180,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Cloud & DevOps",
       description: "Google Cloud Platform services",
-      yearsUsed: 4
+      yearsUsed: 5
     },
     {
       name: "Firebase",
@@ -204,7 +204,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Cloud & DevOps",
       description: "Version control system",
-      yearsUsed: 6
+      yearsUsed: 7
     },
   ],
   "AI & Integration": [
@@ -214,7 +214,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "AI & Integration",
       description: "AI-powered applications and chatbots",
-      yearsUsed: 5
+      yearsUsed: 7
     },
     {
       name: "OpenAI",
@@ -230,7 +230,7 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "AI & Integration",
       description: "Framework for developing LLM applications",
-      yearsUsed: 4
+      yearsUsed: 5
     },
     {
       name: "Vercel AI SDK",
