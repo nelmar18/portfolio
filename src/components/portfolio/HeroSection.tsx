@@ -72,7 +72,7 @@ export default function HeroSection() {
         >
           {[
             { href: "https://github.com/ShinySyntax", icon: "simple-icons:github", label: "GitHub", color: "hover:text-gray-900 dark:hover:text-white" },
-            { href: "https://linkedin.com/in/nelmar-camisora-7299b830a", icon: "skill-icons:linkedin", label: "LinkedIn", color: "hover:text-blue-600" },
+            { href: "https://linkedin.com/in/nelmar-camisora", icon: "skill-icons:linkedin", label: "LinkedIn", color: "hover:text-blue-600" },
             { href: "mailto:camisoranelmar18@gmail.com", icon: "material-icon-theme:email", label: "Email", color: "hover:text-green-600" }
           ].map((link) => (
             <motion.div key={link.label} whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>

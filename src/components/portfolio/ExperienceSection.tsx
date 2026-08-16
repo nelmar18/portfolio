@@ -6,36 +6,55 @@ import SectionHeader from "./SectionHeader";
 
 const experience = [
   {
-    role: "Generative AI Engineer",
-    company: "Pixite Inc",
-    period: "Aug 2024 — Nov 2025",
+    role: "Software Engineer",
+    company: "Convergence",
+    period: "Jul 2022 — Present",
     type: "Full Time",
     // companyIcon: "fa6-brands:square-upwork",
     companyColor: "from-green-500 to-green-600",
-    description: "Provided technical leadership for Copilot development in a visual programming environment, fine-tuned and deployed Stable Diffusion and Chat-Bison models to Vertex AI endpoints for a beauty retail PoC, architected scalable and cost-efficient AWS cloud solutions for medical AI, LLM-based injury claims, and compliance workflows, and delivered production-ready AI systems including a vector and graph-powered retail shopping assistant and an automated Confluence tutorial generation platform.",
+    description: "Built and delivered production-grade full-stack and AI-powered applications, owning engineering initiatives across frontend platforms, backend services, cloud infrastructure, and intelligent automation systems. Designed scalable architectures using Python, FastAPI, React, Next.js, and LLM technologies to develop AI-driven workflows, RAG-based applications, and customer-facing products. Led feature development from technical design through deployment, improving application performance, reliability, and operational efficiency while collaborating with cross-functional engineering and product teams.",
     achievements: [
-      "Led Copilot development and deployed fine tuned Stable Diffusion and Chat Bison models to Vertex AI.",
-      "Designed scalable AWS architectures for medical AI, LLM claims processing, and compliance automation.",
-      "Built a shopping assistant using graph and vector databases to improve search relevance.",
-      "Created a Generative AI system to automate tutorial review and generation in Confluence."
+      "Delivered AI-powered full-stack applications using Python, FastAPI, React, Next.js, and LLM technologies, supporting products used by 50K+ monthly users with scalable production architecture.",
+      "Built retrieval-augmented generation (RAG) solutions using embeddings, vector search, and context optimization, improving AI response relevance by approximately 35% for knowledge-based workflows.",
+      "Implemented intelligent automation workflows integrating LLM services, document processing, and backend systems, reducing repetitive business processes by approximately 40%.",
+      "Improved application performance and reliability through API optimization, database tuning, caching strategies, monitoring, and cloud improvements, reducing latency by approximately 35% and production troubleshooting time by 30%.",
+      "Designed and deployed cloud-native AI services using Azure, AWS, Docker, Kubernetes, and CI/CD pipelines, improving release consistency and operational scalability."
     ],
-    technologies: ["JavaScript", "Python", "Node.js", "AWS", "GCP", "OpenAI API", "LangChain"]
+    technologies: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js", "Tailwind CSS", "AWS", "GCP", "OpenAI API", "RAG", "LLM", "LangChain", "..."]
   },
   {
     role: "Full Stack Engineer",
-    company: "SolarWinds",
-    period: "Apr 2023 — Jun 2024",
-    type: "Full-time",
+    company: "Upwork",
+    period: "Janu 2020 — Aug 2022",
+    type: "Freelancer",
     companyColor: "from-blue-500 to-blue-600",
     companyIcon: "",
-    description: "Served as Lead Full Stack Developer and later Team Lead, architecting scalable web and mobile applications with React, React Native, and Flutter, building and optimizing Node.js REST APIs, managing and mentoring a 10 person team, leading onboarding and technical training, and enforcing code quality, architectural consistency, security, and performance across the entire product lifecycle.",
+    description: "Designed, developed, and deployed complete software solutions for startups and business clients, delivering full-stack applications, backend platforms, automation tools, and AI-enabled features. Managed the entire software lifecycle including requirements analysis, architecture design, implementation, testing, cloud deployment, and ongoing improvements. Helped organizations modernize workflows by building scalable web applications, integrating third-party services, and creating efficient automation solutions using modern engineering practices.",
     achievements: [
-      "Architected and delivered scalable web and mobile applications using React, React Native, Flutter, and modern UI frameworks.",
-      "Designed and optimized Node.js REST APIs with secure authentication, validation, and performance tuning.",
-      "Led and mentored a 10 developer team, managing sprint planning, delivery timelines, and engineering standards.",
-      "Enforced architectural consistency and code quality by reviewing all Git submissions and reducing technical debt."
+      "Delivered 12+ production full-stack applications for startups and business clients using Python, React, Node.js, FastAPI, Django, and cloud platforms.",
+      "Built AI-enabled applications and automation solutions integrating intelligent workflows, document processing, and external AI services to improve business productivity.",
+      "Developed scalable backend systems and APIs with modern architecture patterns, supporting customer-facing platforms, internal tools, and business automation workflows.",
+      "Reduced manual operational workloads by approximately 30% through Python automation scripts, data processing tools, and workflow optimization solutions.",
+      "Managed complete software delivery lifecycle including architecture design, development, testing, deployment, and maintenance across multiple concurrent client projects."
     ],
-    technologies: ["React", "React Native", "Flutter", "Node.js", "Modern UI Framework"]
+    technologies: ["React", "Next.js", "Python", "React Native", "Flutter", "Node.js", "Modern UI Framework", "MongDB", "..."]
+  },
+  {
+    role: "Software Engineer",
+    company: "Microsoft",
+    period: "May 2019 — Oct 2019",
+    type: "Internship",
+    companyColor: "from-blue-500 to-blue-600",
+    companyIcon: "",
+    description: "Contributed to enterprise-scale software development by implementing application features, improving software quality, and supporting engineering teams through debugging, testing, and code reviews. Worked within professional development workflows to build reliable software components, automate validation processes, analyze technical issues, and gain hands-on experience with scalable engineering practices, Agile collaboration, and production-quality software development standards.",
+    achievements: [
+      "Contributed production-quality software components within Microsoft's engineering environment while following enterprise development standards and best practices.",
+      "Improved software reliability by developing automated testing workflows, validation processes, and debugging solutions for application components.",
+      "Supported feature development and troubleshooting efforts by analyzing issues, reviewing code, and collaborating with senior engineers.",
+      "Strengthened engineering practices through participation in Agile workflows, technical discussions, code reviews, and documentation improvements.",
+      "Gained hands-on experience building scalable software systems within a large-scale engineering organization."
+    ],
+    technologies: ["Python", "React", "React Native", "Flutter", "Node.js", "Modern UI Framework", "..."]
   }
 ];
 
@@ -266,7 +285,7 @@ export default function ExperienceSection() {
               whileHover={{ scale: 1.05, y: -5 }}
               className="group p-6 md:p-8 rounded-xl md:rounded-2xl bg-gradient-to-br from-blue-50/50 to-blue-100/30 dark:from-blue-950/20 dark:to-blue-900/10 border border-blue-200/30 dark:border-blue-800/20 hover:border-blue-300/50 dark:hover:border-blue-600/30 transition-all duration-500"
             >
-              <div className="text-4xl md:text-5xl font-bold text-blue-600 dark:text-blue-400 mb-2 md:mb-3 group-hover:scale-110 transition-transform duration-300">5+</div>
+              <div className="text-4xl md:text-5xl font-bold text-blue-600 dark:text-blue-400 mb-2 md:mb-3 group-hover:scale-110 transition-transform duration-300">7+</div>
               <div className="text-gray-600 dark:text-gray-400 font-medium text-base md:text-lg">Years Experience</div>
             </motion.div>
 
